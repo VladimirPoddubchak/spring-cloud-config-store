@@ -1,6 +1,6 @@
 report:
   export:
-    type: changed_type
+    type: test_changed_type
   border: none
   page:
     color: white
