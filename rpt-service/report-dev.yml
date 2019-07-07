@@ -1,0 +1,8 @@
+report:
+  export:
+    type: dev
+  border: none
+  page:
+    color: white
+    size: A4
+duration: all
