@@ -1,6 +1,6 @@
 report:
   export:
-    type: prod
+    type: changed_type
   border: none
   page:
     color: white
